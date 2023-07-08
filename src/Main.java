@@ -1,11 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int a = 20;
-        int b = 17_000;
-        int c = b / a;
-        int d = c;
-        System.out.println(d);
-
-    }
+        int price = 17_000;
+        int miles = price / 20;
+        System.out.println("Количество миль "+ miles);
+        }
 }
