@@ -3,6 +3,6 @@ public class Main {
 
         int price = 17_000;
         int miles = price / 20;
-        System.out.println("Количество миль "+ miles);
-        }
+        System.out.println("Количество миль " + miles);
+    }
 }
